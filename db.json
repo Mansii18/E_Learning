@@ -71,6 +71,15 @@
       "gender": "Male",
       "role": "",
       "isActive": true
+    },
+    {
+      "id": "testing1133",
+      "name": "tester",
+      "password": "popcon113",
+      "email": "abc@gmail.com",
+      "gender": "Male",
+      "role": "",
+      "isActive": true
     }
   ]
 }
